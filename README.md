@@ -58,6 +58,7 @@ Ce projet consiste à développer un système d'analyse de sentiment appliqué �
 ## Installation et exécution
 1. Cloner le dépôt :
   git clone https://github.com/D0ntMindMe/Mini-Project-1-Building-a-Sentiment-Analysis-System-for-Movie-Reviews-
+
 cd sentiment-analysis-project
 
 3. Installer les dépendances :
