@@ -69,5 +69,5 @@ cd sentiment-analysis-project
  
 
 ## Licence
-Ce projet est sous licence MIT. Voir `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT. 
 
