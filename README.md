@@ -1,6 +1,6 @@
 # Mini-Project-1-Building-a-Sentiment-Analysis-System-for-Movie-Reviews-
 
-# Description en francais suivra.
+
 
 # Mini Project 1: Sentiment Analysis System for Movie Reviews
 
