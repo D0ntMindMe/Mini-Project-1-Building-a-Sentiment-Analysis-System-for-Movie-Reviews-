@@ -56,6 +56,23 @@ Ce projet consiste à développer un système d'analyse de sentiment appliqué �
 - Ajout d'une licence open-source (MIT)
 - Mise en place d'un protocole de signalement des bugs (issues, pull requests)
 
+## Responsabilités liées à la publication du code
+La publication du code source implique des responsabilités importantes en matière de transparence, de maintenance et d'accessibilité.
+
+## Choix d'une licence open-source
+Ce projet est sous licence MIT, qui permet une réutilisation libre tout en limitant la responsabilité des auteurs. D'autres licences open-source comme Apache 2.0 ou GPL v3 offrent des niveaux de protection différents en matière de brevets et de distribution.
+
+## Impact des pratiques de publication
+- **Transparence** : Publier un code bien documenté améliore la compréhension et l'auditabilité.
+- **Collaboration** : Un projet open-source favorise les contributions externes via des pull requests.
+- **Maintenance** : L'usage d'un suivi des versions et des issues permet une évolution continue du projet.
+
+## Protocole de signalement et correction des bugs
+1. **Suivi des problèmes** : Utilisation de GitHub Issues pour recenser les bugs et suggestions.
+2. **Pull requests** : Processus structuré pour proposer des corrections et améliorations.
+3. **Tests et validation** : Vérification des contributions avant leur intégration dans la branche principale.
+
+
 ## Installation et exécution
 1. Cloner le dépôt :
   git clone https://github.com/D0ntMindMe/Mini-Project-1-Building-a-Sentiment-Analysis-System-for-Movie-Reviews-
