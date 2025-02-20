@@ -40,6 +40,7 @@ Ce projet consiste à développer un système d'analyse de sentiment appliqué �
 ## Suivi de l'empreinte carbone
 - Intégration de CodeCarbon pour mesurer la consommation d'énergie
 - Comparaison des émissions en fonction des paramètres du modèle
+- Nos résultats de l'analyse de l'emissions de carbone : 2.1070141533849448e-08
 
 ## Considérations éthiques
 - Utilisation de SHAP pour comprendre l'impact des mots sur les prédictions
