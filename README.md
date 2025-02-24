@@ -59,7 +59,7 @@ Ce projet consiste à développer un système d'analyse de sentiment appliqué �
 ## Responsabilités liées à la publication du code
 La publication du code source implique des responsabilités importantes en matière de transparence, de maintenance et d'accessibilité.
 
-Le code fourni a été inspiré et tiré en partie du cours **GEI1092 - Techniques d'intelligence artificielle** de l'Université du Québec à Trois-Rivières. Ce cours lui-même s'appuie sur plusieurs ressources académiques et ouvrages de référence en apprentissage automatique et intelligence artificielle, notamment :  
+Les code fourni a été inspiré et tiré en partie du cours **GEI1092 - Techniques d'intelligence artificielle** de l'Université du Québec à Trois-Rivières. Ce cours lui-même s'appuie sur plusieurs ressources académiques et ouvrages de référence en apprentissage automatique et intelligence artificielle, notamment :  
 
 1. **Raschka Sebastian, Vahid Mirjalili** – *Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2*, 3ᵉ édition, Packt Publishing, 2019.  
 2. **Ian Goodfellow, Yoshua Bengio, Aaron Courville** – *Deep Learning*, The MIT Press, novembre 2016.  
